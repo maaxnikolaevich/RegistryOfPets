@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30002.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp5", "WindowsFormsApp5\WindowsFormsApp5.csproj", "{89485C5D-407F-42B5-AEC9-6B0B55E8B740}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistryOfPets", "WindowsFormsApp5\RegistryOfPets.csproj", "{89485C5D-407F-42B5-AEC9-6B0B55E8B740}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
