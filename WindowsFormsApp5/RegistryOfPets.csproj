@@ -52,6 +52,24 @@
     <Compile Include="Authorization.Designer.cs">
       <DependentUpon>Authorization.cs</DependentUpon>
     </Compile>
+    <Compile Include="Edit.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Edit.Designer.cs">
+      <DependentUpon>Edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditAddFiz.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EditAddFiz.Designer.cs">
+      <DependentUpon>EditAddFiz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Owners.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Owners.Designer.cs">
+      <DependentUpon>Owners.cs</DependentUpon>
+    </Compile>
     <Compile Include="Registry.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -60,14 +78,23 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Vaccinations.cs">
+    <Compile Include="Info.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Vaccinations.Designer.cs">
-      <DependentUpon>Vaccinations.cs</DependentUpon>
+    <Compile Include="Info.Designer.cs">
+      <DependentUpon>Info.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="Authorization.resx">
       <DependentUpon>Authorization.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Edit.resx">
+      <DependentUpon>Edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditAddFiz.resx">
+      <DependentUpon>EditAddFiz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Owners.resx">
+      <DependentUpon>Owners.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Registry.resx">
       <DependentUpon>Registry.cs</DependentUpon>
@@ -82,8 +109,8 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <EmbeddedResource Include="Vaccinations.resx">
-      <DependentUpon>Vaccinations.cs</DependentUpon>
+    <EmbeddedResource Include="Info.resx">
+      <DependentUpon>Info.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

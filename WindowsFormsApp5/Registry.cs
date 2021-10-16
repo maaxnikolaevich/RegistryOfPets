@@ -15,8 +15,8 @@ namespace WindowsFormsApp5
     {
         public Registry()
         {
-
             InitializeComponent();
+            vaccinations1.Visible = false;
         }
 
         private void button4_Click(object sender, EventArgs e)
@@ -30,6 +30,8 @@ namespace WindowsFormsApp5
 
         private void button2_Click(object sender, EventArgs e)
         {
+            vaccinations1.SendToBack();
+            vaccinations1.Visible = false;
             button2.ForeColor = Color.Goldenrod;
             button5.ForeColor = Color.White;
             button4.ForeColor = Color.White;
@@ -48,6 +50,7 @@ namespace WindowsFormsApp5
 
         private void button6_Click(object sender, EventArgs e)
         {
+            vaccinations1.Visible = true;
             vaccinations1.BringToFront();
         }
 

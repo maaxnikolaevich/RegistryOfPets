@@ -1,0 +1,15 @@
+C:\Users\Maks\Documents\GitHub\RegistryOfPets\WindowsFormsApp5\bin\Debug\RegistryOfPets.exe.config
+C:\Users\Maks\Documents\GitHub\RegistryOfPets\WindowsFormsApp5\bin\Debug\RegistryOfPets.exe
+C:\Users\Maks\Documents\GitHub\RegistryOfPets\WindowsFormsApp5\bin\Debug\RegistryOfPets.pdb
+C:\Users\Maks\Documents\GitHub\RegistryOfPets\WindowsFormsApp5\obj\Debug\RegistryOfPets.csprojAssemblyReference.cache
+C:\Users\Maks\Documents\GitHub\RegistryOfPets\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Authorization.resources
+C:\Users\Maks\Documents\GitHub\RegistryOfPets\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Registry.resources
+C:\Users\Maks\Documents\GitHub\RegistryOfPets\WindowsFormsApp5\obj\Debug\RegistryOfPets.Properties.Resources.resources
+C:\Users\Maks\Documents\GitHub\RegistryOfPets\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Vaccinations.resources
+C:\Users\Maks\Documents\GitHub\RegistryOfPets\WindowsFormsApp5\obj\Debug\RegistryOfPets.csproj.GenerateResource.cache
+C:\Users\Maks\Documents\GitHub\RegistryOfPets\WindowsFormsApp5\obj\Debug\RegistryOfPets.csproj.CoreCompileInputs.cache
+C:\Users\Maks\Documents\GitHub\RegistryOfPets\WindowsFormsApp5\obj\Debug\RegistryOfPets.exe
+C:\Users\Maks\Documents\GitHub\RegistryOfPets\WindowsFormsApp5\obj\Debug\RegistryOfPets.pdb
+C:\Users\Maks\Documents\GitHub\RegistryOfPets\WindowsFormsApp5\obj\Debug\RegistryOfPets.Edit.resources
+C:\Users\Maks\Documents\GitHub\RegistryOfPets\WindowsFormsApp5\obj\Debug\RegistryOfPets.Owners.resources
+C:\Users\Maks\Documents\GitHub\RegistryOfPets\WindowsFormsApp5\obj\Debug\RegistryOfPets.EditAddFiz.resources

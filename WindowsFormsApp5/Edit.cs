@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WindowsFormsApp5
+namespace RegistryOfPets
 {
-    public partial class Vaccinations : UserControl
+    public partial class Edit : UserControl
     {
-        public Vaccinations()
+        public Edit()
         {
             InitializeComponent();
         }
