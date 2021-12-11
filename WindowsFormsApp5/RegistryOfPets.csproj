@@ -56,9 +56,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Service\ViewServiceOfOwners.cs" />
     <Compile Include="Model\Data\AppContext.cs" />
     <Compile Include="Model\Role.cs" />
     <Compile Include="Model\User.cs" />
+    <Compile Include="Service\Manipulations.cs" />
+    <Compile Include="Service\ViewServiceMainPage.cs" />
     <Compile Include="Views\Authorization.cs">
       <SubType>UserControl</SubType>
     </Compile>
