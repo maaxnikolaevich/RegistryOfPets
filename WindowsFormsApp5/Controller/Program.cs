@@ -17,6 +17,10 @@ namespace WindowsFormsApp5
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Registry());
+            using (ApplicationContext db = new ApplicationContext())
+            {
+
+            }
         }
     }
 }
